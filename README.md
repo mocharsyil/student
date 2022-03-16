@@ -1,3 +1,4 @@
 # student
 Screenshoot
-![Screenshoot](https://github.com/mocharsyil/student/blob/main/Screenshot%20(122).png)
+post
+![Screenshoot](https://github.com/mocharsyil/student/blob/main/img/Screenshot%20(122).png)
