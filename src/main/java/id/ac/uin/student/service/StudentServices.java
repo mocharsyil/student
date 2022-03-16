@@ -12,7 +12,7 @@ public interface StudentServices {
 
     Optional<Student> findByEmail(String email);
 
-    Student save(Student std);
+    Student save(Student newStd);
 
     void deleteById(Long id);
 }

@@ -33,8 +33,8 @@ public class StudentServicesImpl implements StudentServices {
     }
 
     @Override
-    public Student save(Student std){
-        return studentRepository.save(std);
+    public Student save(Student newStd){
+        return studentRepository.save(newStd);
     }
 
     @Override
